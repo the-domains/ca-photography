@@ -1,6 +1,6 @@
 name: 'CA: Photography'
 favicon: null
-layout_spectrum: 0.0619096530135721
+layout_spectrum: 1
 typography_spectrum: 0.270819419529289
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5830048471689224
+  brandStrength: 0
   lightness: 0.09844715078361332
   saturation: 0.8552273057866842
   rhythmicContrast: 0.546727552311495
